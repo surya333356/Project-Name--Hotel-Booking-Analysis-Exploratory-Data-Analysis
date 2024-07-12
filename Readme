@@ -1,10 +1,10 @@
 # Project Name -Hotel Booking Analysis Exploratory Data Analysis 
-Project Type - EDA/Regression/Classification/Unsupervised
-Contribution - Individual-SURYA SINGH
+# Project Type - EDA/Regression/Classification/Unsupervised
+# Contribution - Individual-SURYA SINGH
 
 
 
-Define Your Business Objective:
+# Define Your Business Objective:
 
 The objective of this project is to conduct an Exploratory Data Analysis (EDA) on a dataset containing hotel bookings information. 
 The analysis aims to uncover insights, identify patterns, and extract meaningful information that can help hotel management improve booking strategies,
@@ -12,7 +12,7 @@ enhance customer experience, and optimize revenue management.
 
 
 
-Problem Statement:
+# Problem Statement:
 
 Have you ever seen that what the good time to book a hotel ? Or how many days to stay to get the best daily rate ?
 What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests?
@@ -20,7 +20,7 @@ This hotel booking dataset can help you explore those questions! This dataset co
 information such as when booking was made,length of stay,number of adults,children and or babies and number of available parking spaces,other things.
 All personally identifying information has been removed from the data. Explore and analyze the data to discover important factors that governs the bookings.
 
-Project Summary -
+# Project Summary -
 
 This project is related to Hotel Booking having two hotel description i.e City Hotel and Resort Hotel. In this dataset contains total rows 119390 and 32 columns.
 In this we divide data manipulation workflow in three category Data Collection ,Data cleaning and manipulation and EDA(Exploratory Data Analysis).
